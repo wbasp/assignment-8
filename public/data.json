@@ -1,0 +1,72 @@
+[
+    {
+    "name": "ghfdgfd",
+    "id": "64045375a760f692eba818ac",
+    "index": 0,
+    "img": "../images/image-1.jpg",
+    "price": 260
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "6404537535492fbeb0006795",
+    "index": 1,
+    "img": "../images/image-2.jpg",
+    "price": 341
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "64045375f06012c6c6a3b629",
+    "index": 2,
+    "img": "../images/image-3.jpg",
+    "price": 87
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "64045375cf140783c74b22b4",
+    "index": 3,
+    "img": "../images/image-4.jpg",
+    "price": 256
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "640453756985ddb163672f5c",
+    "index": 4,
+    "img": "../images/image-5.jpg",
+    "price": 263
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "64045375a760f692eba818ac",
+    "index": 0,
+    "img": "../images/image-6.jpg",
+    "price": 260
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "6404537535492fbeb0006795",
+    "index": 1,
+    "img": "../images/image-7.jpg",
+    "price": 341
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "64045375f06012c6c6a3b629",
+    "index": 2,
+    "img": "../images/image-8.jpg",
+    "price": 87
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "64045375cf140783c74b22b4",
+    "index": 3,
+    "img": "../images/image-9.jpg",
+    "price": 256
+    },
+    {
+    "name": "ghfdgfd",
+    "id": "640453756985ddb163672f5c",
+    "index": 4,
+    "img": "../images/image-10.jpg",
+    "price": 263
+    }
+]
