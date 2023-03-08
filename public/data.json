@@ -1,72 +1,72 @@
 [
     {
-    "name": "abc",
-    "id": "64045375a760692ereba818ac",
-    "index": 0,
-    "img": "../images/image-1.jpg",
-    "price": 260
+        "name": "abc",
+        "id": "64045375a760692ereba818ac",
+        "index": 0,
+        "img": "./images/image-1.jpg",
+        "price": 260
     },
     {
-    "name": "def",
-    "id": "640437535492fbereb0006795",
-    "index": 1,
-    "img": "../images/image-2.jpg",
-    "price": 341
+        "name": "def",
+        "id": "640437535492fbereb0006795",
+        "index": 1,
+        "img": "./images/image-2.jpg",
+        "price": 341
     },
     {
-    "name": "ghi",
-    "id": "64045375f06012wwc6c6a3629",
-    "index": 2,
-    "img": "../images/image-3.jpg",
-    "price": 87
+        "name": "ghi",
+        "id": "64045375f06012wwc6c6a3629",
+        "index": 2,
+        "img": "./images/image-3.jpg",
+        "price": 87
     },
     {
-    "name": "jkl",
-    "id": "6404375cf1407ee83c74b22b4",
-    "index": 3,
-    "img": "../images/image-4.jpg",
-    "price": 256
+        "name": "jkl",
+        "id": "6404375cf1407ee83c74b22b4",
+        "index": 3,
+        "img": "./images/image-4.jpg",
+        "price": 256
     },
     {
-    "name": "mno",
-    "id": "6404537569ew85ddb16672f5c",
-    "index": 4,
-    "img": "../images/image-5.jpg",
-    "price": 263
+        "name": "mno",
+        "id": "6404537569ew85ddb16672f5c",
+        "index": 4,
+        "img": "./images/image-5.jpg",
+        "price": 263
     },
     {
-    "name": "pqr",
-    "id": "64045375a760f692eb818ac",
-    "index": 0,
-    "img": "../images/image-6.jpg",
-    "price": 260
+        "name": "pqr",
+        "id": "64045375a760f692eb818ac",
+        "index": 0,
+        "img": "./images/image-6.jpg",
+        "price": 260
     },
     {
-    "name": "stu",
-    "id": "6404537535492fbeb000695",
-    "index": 1,
-    "img": "../images/image-7.jpg",
-    "price": 341
+        "name": "stu",
+        "id": "6404537535492fbeb000695",
+        "index": 1,
+        "img": "./images/image-7.jpg",
+        "price": 341
     },
     {
-    "name": "vwx",
-    "id": "64045375f060126c6a3b629",
-    "index": 2,
-    "img": "../images/image-8.jpg",
-    "price": 87
+        "name": "vwx",
+        "id": "64045375f060126c6a3b629",
+        "index": 2,
+        "img": "./images/image-8.jpg",
+        "price": 87
     },
     {
-    "name": "yza",
-    "id": "64045375cf140783c7b22b4",
-    "index": 3,
-    "img": "../images/image-9.jpg",
-    "price": 256
+        "name": "yza",
+        "id": "64045375cf140783c7b22b4",
+        "index": 3,
+        "img": "./images/image-9.jpg",
+        "price": 256
     },
     {
-    "name": "sda",
-    "id": "640453756985ddb16362f5c",
-    "index": 4,
-    "img": "../images/image-10.jpg",
-    "price": 263
+        "name": "sda",
+        "id": "640453756985ddb16362f5c",
+        "index": 4,
+        "img": "./images/image-10.jpg",
+        "price": 263
     }
 ]

@@ -1,0 +1,15 @@
+.product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    padding: 0;
+}
+.product img{
+    height: 350px;
+    width: 277px;
+}
+.product-name, .product-price{
+    margin: 0px;
+}
