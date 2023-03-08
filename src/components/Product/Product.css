@@ -5,6 +5,7 @@
     flex-direction: column;
     background-color: white;
     padding: 0;
+    height: 436px;
 }
 .product img{
     height: 350px;
