@@ -26,6 +26,12 @@ const Shop = () => {
         }
     }
 
+    const emptyCart = () =>{
+        setCart([]);
+        setUniqueCart([]);
+        document.getElementById('choosen-one').innerText = '';
+    }
+
     return (
         <div className='shop'>
             <div className='product-container'>
@@ -38,7 +44,7 @@ const Shop = () => {
                 }
             </div>
             <div className='cart-container'>
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart} emptyCart={emptyCart}></Cart>
             </div>
         </div>
     );
