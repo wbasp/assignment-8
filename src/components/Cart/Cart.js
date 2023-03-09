@@ -19,7 +19,7 @@ const Cart = ({cart, emptyCart}) => {
                 cart.map(product =><h2 className='cart-product' key={product.id}>{product.name}</h2>)
             }
             <button onClick={()=>chooseProduct()}>choose one for me</button>
-            <h2 id='choosen-one' className='cart-product'></h2>
+            <h2 id='choosen-one' className='cart-product'> </h2>
             <button onClick={()=>emptyCart()}>choose again</button>
         </div>
     );
